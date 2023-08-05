@@ -27,8 +27,14 @@ function page() {
          <Link href='/female'>
          <li>Female</li>
          </Link>
-          <li>Male</li>
-          <li>Kids</li>
+
+         <Link href='/male'>
+         <li>Male</li>
+         </Link>
+
+         <Link href='/kids'>
+         <li>Kids</li>         </Link>
+       
         </ul>
       </div>
 

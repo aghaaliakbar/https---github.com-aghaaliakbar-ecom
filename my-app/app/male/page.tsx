@@ -12,32 +12,17 @@ export async function abc() {
   {
       name,
       details,
-      price,
-      image,
+   price,
+  image,
   
-      category ->{
-     name,
+   category ->{
+    name,
     
    },
   }`,{cache:'no-store'});
 
   return abc;
 }
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -87,3 +72,5 @@ export default async function page() {
 
   );
 }
+
+

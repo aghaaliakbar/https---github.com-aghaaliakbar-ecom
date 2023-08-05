@@ -11,7 +11,7 @@ const nextConfig = {
             }
 
         ],
-       // domains:['cdn.sanity.io']
+       domains:['cdn.sanity.io']
     }
 }
 
